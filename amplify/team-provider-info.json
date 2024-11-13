@@ -1,0 +1,26 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-imagerecognition1-dev-4408e-authRole",
+      "UnauthRoleArn": "arn:aws:iam::667258121719:role/amplify-imagerecognition1-dev-4408e-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::667258121719:role/amplify-imagerecognition1-dev-4408e-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-imagerecognition1-dev-4408e-deployment",
+      "UnauthRoleName": "amplify-imagerecognition1-dev-4408e-unauthRole",
+      "StackName": "amplify-imagerecognition1-dev-4408e",
+      "StackId": "arn:aws:cloudformation:us-east-1:667258121719:stack/amplify-imagerecognition1-dev-4408e/5cb70e90-9eb3-11ef-9ef3-0affc7938aed",
+      "AmplifyAppId": "d83ihflsoz8ms"
+    },
+    "categories": {
+      "auth": {
+        "imagerecognition11592a4a1": {}
+      },
+      "storage": {
+        "s30gabby": {}
+      },
+      "api": {
+        "imagerecognition1": {}
+      }
+    }
+  }
+}
